@@ -1,0 +1,26 @@
+commit d3788533b5e18002b78fb51b19a0a5135599a530 (HEAD -> main, origin/main)
+Author: João Vitor <jvitorso82@gmail.com>
+Date:   Tue Jul 29 15:17:58 2025 -0300
+
+    Revert "Deixando o jogo mais facil"
+    
+    This reverts commit da41339befe3ba48e0e73a37b9f16f87fee89567.
+
+commit da41339befe3ba48e0e73a37b9f16f87fee89567
+Author: João Vitor <jvitorso82@gmail.com>
+Date:   Tue Jul 29 11:27:14 2025 -0300
+
+    Deixando o jogo mais facil
+
+commit b813a090615c36de76dd0fd6c6dffec1f690e2e0
+Author: João Vitor <jvitorso82@gmail.com>
+Date:   Fri Jul 25 15:26:44 2025 -0300
+
+    alterando limite para 100
+
+commit dcabb2a3ab3712a0009775e9d67df75fc12c9cda
+Author: João Vitor <jvitorso82@gmail.com>
+Date:   Tue Jul 22 10:21:29 2025 -0300
+
+    projeto inicial
+:
